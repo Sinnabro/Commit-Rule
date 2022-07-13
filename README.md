@@ -36,4 +36,5 @@ feat(mainpage) 페이지 생성
 fix(ui)  회원가입 UI 수정
 style(code) 세미콜론 누락
 init(project) 프로젝트 설정
+merge(#3) 프로젝트 설정
 ```
