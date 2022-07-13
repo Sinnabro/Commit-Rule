@@ -14,8 +14,7 @@
 |refactor       |                  프로덕션 코드 리팩토링                    |
 |test           |  누락된 테스트 추가, 테스트 리팩토링, 프로덕션 코드 변경 없음|
 |chore          |        그런트 작업 업데이트 등, 프로덕션 코드 변경 없음      |
-|merge & pr     |                          코드 Merge                        |
-|init           |                         프로젝트 Init                      |
+|merge          |                          코드 Merge                        |
 |issue          |                         프로젝트 Issue                     |
 
 
